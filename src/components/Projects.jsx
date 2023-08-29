@@ -1,9 +1,9 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import its from "../assets/its.png";
-import frogger from "../assets/frogger.png";
+import its from "../assets/ITS.png";
+import frogger from "../assets/Frogger.png";
 import pomodoro from "../assets/Pomodoro.png";
-import jordle from "../assets/jordle.png";
+import jordle from "../assets/Jordle.png";
 
 const Projects = () => {
   return (
