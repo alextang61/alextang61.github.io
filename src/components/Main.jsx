@@ -20,7 +20,7 @@ const Main = () => {
                 2000,
                 "exploring fullstack development.",
                 2000,
-                "continuously growing as a developer.",
+                "always learning as a developer.",
                 2000,
               ]}
               wrapper="div"
